@@ -21,8 +21,8 @@ data = {
 'isRemind':'0',
 'loginTimes':'',
 'groupId':'',
-'userId':'XYGY_S16405147@SCITC',
-'passwd':'888888'
+'userId':'这里输入账号',
+'passwd':'这里输入密码'
 }
 # gethostbyname 返回的是 主机名 的IPv4 的地址格式，如果传入的参数是IPv4 的地址格式，则返回值跟参数一样，
 # 这个函数不支持IPv6 的域名解析
